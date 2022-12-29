@@ -1,5 +1,5 @@
 mongo-api/node_modules
-mongo-api.package-lock.json
+mongo-api/package-lock.json
 
 postgres-api/node_modules
 postgres-api/package-lock.json
